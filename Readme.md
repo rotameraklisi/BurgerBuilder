@@ -1,2 +1,2 @@
 
-<image src="images/Plan.png">
+<image src="images/Plan2.png">
