@@ -6,13 +6,13 @@
                    npm start eject komutunu çalıştırılır.
                  
   **DİPNOT:** Bu komut çalıştırıldığında 
-  "? Are you sure you want to eject? This action is permanent."-> Yes
-  "This git repository has untracked files or uncommitted changes:
+  "**? Are you sure you want to eject? This action is permanent."**-> Yes
+  "**This git repository has untracked files or uncommitted changes:
    .idea/
-   Remove untracked files, stash or commit any changes, and try again."
+   Remove untracked files, stash or commit any changes, and try again."**
    
  **DİPNOT:Hatası ile karşılaşınca**:
 
-  "git add .
-  "git commit -am "Save before ejecting" 
+  "**git add .
+  "git commit -am "Save before ejecting"**
    komutlarını çalıştırdıktan sonra tekrar "npm start eject" deyince hata çözülecektir.
